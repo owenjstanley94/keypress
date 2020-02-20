@@ -6,7 +6,7 @@ window.addEventListener('keydown', (event) => {
 
     insert.innerHTML = `
         <div class="key">
-            ${event.key === ' ' ? 'Space' : key}
+            // ${event.key === ' ' ? 'Space' : key} /* if empty string is returned, return 'Space' instead (this is a fix for the spacebar not) */
             <small>event.key</small>
         </div>
         <div class="key">

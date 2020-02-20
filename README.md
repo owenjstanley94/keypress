@@ -1,5 +1,5 @@
-#Key Press Challenge
+# Key Press Challenge
 
-##Instructions
+## Instructions
 
-###Whenever you press a key on your keyboard it will display the key, keyCode and code on the screen.
+### Whenever you press a key on your keyboard it will display the key, keyCode and code on the screen.
